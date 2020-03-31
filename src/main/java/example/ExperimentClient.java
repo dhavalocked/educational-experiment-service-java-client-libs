@@ -1,4 +1,4 @@
-package playpower;
+package example;
 
 import java.util.ArrayList;
 import java.util.HashMap;
